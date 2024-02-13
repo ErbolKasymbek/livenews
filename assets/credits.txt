@@ -1,11 +1,11 @@
-Photo by <a href="https://unsplash.com/@raghavmodi?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Raghav Modi</a> on <a href="https://unsplash.com/photos/black-haired-woman-painting-on-wall-gm8ht3WER6E?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-  
-1) Header Background image - Benjamin Suter: https://unsplash.com/photos/aerial-photograph-of-city-mlOvsx4xdaA
-2) Aside first image - The Cleveland Museum of Art: https://unsplash.com/photos/a-black-and-white-photo-of-a-city-street-hU3R2MUJgLg
-3) Aside second image - Sumit Mangela: https://unsplash.com/photos/grey-brick-wall-near-green-trees-during-daytime-RXWevc4487g
-4) Main second image - Braden Jarvis: https://unsplash.com/photos/aerial-photography-of-green-mountain-beside-body-of-water-under-white-sky-prSogOoFmkw
-5) Aside third image - Museums Victoria: https://unsplash.com/photos/a-group-of-people-working-in-a-factory-7YUvAUbfSV0
-6) Main fifth image - JOHN TOWNER: https://unsplash.com/photos/empty-cathedral-interior-X48hkTT1qQc
-7) Main sixth image - Denys Nevozhai: https://unsplash.com/photos/beige-concrete-building-near-cars-HhmCIJTLuGY
-8) Main seventh image - Simone Hutsch: https://unsplash.com/photos/white-concrete-building-under-clouds-hzOq6VR3cxM
+Unsplash.com
  
+1 Header Background image - Benjamin Suter: https://unsplash.com/photos/aerial-photograph-of-city-mlOvsx4xdaA
+2 Main first image - Raghav Modi: https://unsplash.com/photos/black-haired-woman-painting-on-wall-gm8ht3WER6E
+3 Main second image - Braden Jarvis: https://unsplash.com/photos/aerial-photography-of-green-mountain-beside-body-of-water-under-white-sky-prSogOoFmkw
+4 Main third image - JOHN TOWNER: https://unsplash.com/photos/empty-cathedral-interior-X48hkTT1qQc
+5 Main fourth image - Denys Nevozhai: https://unsplash.com/photos/beige-concrete-building-near-cars-HhmCIJTLuGY
+6 Main fifth image - Simone Hutsch: https://unsplash.com/photos/white-concrete-building-under-clouds-hzOq6VR3cxM
+7 Aside first image - The Cleveland Museum of Art: https://unsplash.com/photos/a-black-and-white-photo-of-a-city-street-hU3R2MUJgLg
+8 Aside second image - Sumit Mangela: https://unsplash.com/photos/grey-brick-wall-near-green-trees-during-daytime-RXWevc4487g
+9 Aside third image - Museums Victoria: https://unsplash.com/photos/a-group-of-people-working-in-a-factory-7YUvAUbfSV0
