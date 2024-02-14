@@ -780,20 +780,12 @@ video {
   background-color: rgba(255,255,255,50%);
 }
 
-.bg-\[url\(\'\.\.\/assets\/img\/rectangle-footer-bg\.png\'\)\] {
-  background-image: url('../assets/img/rectangle-footer-bg.png');
-}
-
-.bg-\[url\(\'\/assets\/img\/header-img\.jpg\'\)\] {
-  background-image: url('/assets/img/header-img.jpg');
-}
-
-.bg-\[url\(\'\/assets\/img\/search-icon\.svg\'\)\] {
-  background-image: url('/assets/img/search-icon.svg');
-}
-
 .bg-\[url\(\'\.\.\/assets\/img\/header-img\.jpg\'\)\] {
   background-image: url('../assets/img/header-img.jpg');
+}
+
+.bg-\[url\(\'\.\.\/assets\/img\/rectangle-footer-bg\.png\'\)\] {
+  background-image: url('../assets/img/rectangle-footer-bg.png');
 }
 
 .bg-\[url\(\'\.\.\/assets\/img\/search-icon\.svg\'\)\] {
@@ -974,11 +966,6 @@ video {
   text-decoration-line: underline;
 }
 
-.grayscale-\[100\%\] {
-  --tw-grayscale: grayscale(100%);
-  filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
-}
-
 @font-face {
   font-family: "Reem Kufi";
 
@@ -1017,6 +1004,10 @@ video {
   font-weight: 700;
 
   font-display: normal;
+}
+
+img {
+  filter: grayscale(100%);
 }
 
 .placeholder\:text-\[rgba\(0\2c 0\2c 0\2c 50\%\)\]::-moz-placeholder {
